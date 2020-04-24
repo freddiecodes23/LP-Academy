@@ -24,6 +24,11 @@ body{
     border-bottom: 1px solid grey;
 }
 
+a{
+    text-decoration: none;
+    color: #4a4a4a;
+}
+
 .nav-logo{
     display: flex;
     justify-content: center;
@@ -54,6 +59,11 @@ li{
     font-size: 22px;
     padding-right: 50px;
     margin: 0;
+}
+
+a:hover{
+    cursor: pointer;
+    color: green;
 }
 
 
@@ -138,6 +148,11 @@ background-color: #2a3439;
 width: 80%;
 }
 
+.banner-button:hover{
+    cursor: pointer;
+    background-color: green;
+}
+
 @media(max-width: 1330px){
     
     .banner-container{
@@ -170,7 +185,10 @@ width: 80%;
 
     .banner-button{
         width: 93.5%;
+        
     }
+
+    
     
 
 }

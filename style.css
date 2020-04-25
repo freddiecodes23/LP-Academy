@@ -215,7 +215,7 @@ width: 80%;
 
 
 .text-title{
-font-size: 63px;
+font-size: 53px;
 font-weight: 700;
 margin: 0;
 }
@@ -267,7 +267,7 @@ width: 35%;
 }
 
 .child-text-content{
-    font-size: 21px;
+    font-size: 18px;
     
 }
 
@@ -405,7 +405,7 @@ width: 35%;
 
 .caption-description-text{
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 15px;
     letter-spacing: 0.6px;
     color: #808080;
 }
